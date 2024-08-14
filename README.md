@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **API Project**
 
-- 🌱 I’m currently learning **ASP.NET Core Web APIs**
+- 🌱 I’m currently learning **Signal R**
 
 - 💬 Ask me about **Dot Net framework**
 
